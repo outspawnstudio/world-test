@@ -1,0 +1,8 @@
+{
+  "name": "WORLD//DRIVE",
+  "description": "Photorealistic 3D world driving explorer built with Google Maps Platform Maps 3D, starting in Coventry, UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
